@@ -1,0 +1,12 @@
+accelerate 
+peft 
+bitsandbytes 
+transformers 
+trl
+langchain 
+pymongo 
+sentence_transformers
+flashrank
+langchain_community
+llmsherpa
+pyspark
